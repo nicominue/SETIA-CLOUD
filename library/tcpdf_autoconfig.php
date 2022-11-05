@@ -102,15 +102,15 @@ if (!defined('K_PATH_IMAGES')) {
 
 if (!defined('PDF_HEADER_LOGO')) {
 	$tcpdf_header_logo = '';
-	if (@file_exists(K_PATH_IMAGES.'tcpdf_logo.jpg')) {
-		$tcpdf_header_logo = 'tcpdf_logo.jpg';
+	if (@file_exists(K_PATH_IMAGES.'setia_logo.png')) {
+		$tcpdf_header_logo = 'setia_logo.png';
 	}
 	define ('PDF_HEADER_LOGO', $tcpdf_header_logo);
 }
 
 if (!defined('PDF_HEADER_LOGO_WIDTH')) {
 	if (!empty($tcpdf_header_logo)) {
-		define ('PDF_HEADER_LOGO_WIDTH', 30);
+		define ('PDF_HEADER_LOGO_WIDTH', 20);
 	} else {
 		define ('PDF_HEADER_LOGO_WIDTH', 0);
 	}
@@ -145,7 +145,7 @@ if (!defined('PDF_AUTHOR')) {
 }
 
 if (!defined('PDF_HEADER_TITLE')) {
-	define ('PDF_HEADER_TITLE', 'TCPDF Example');
+	define ('PDF_HEADER_TITLE', 'Orden Medica');
 }
 
 if (!defined('PDF_HEADER_STRING')) {
