@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bienes Raices</title>
+    <title>Protegiendo tu Salud · OSETYA</title>
     <link rel="stylesheet" href="/build/css/app.css">
 </head>
 <body>
@@ -12,7 +12,7 @@
         <div class="contenedor contenido-header">
             <div class="barra">
                 <a href="/">
-                <img src="build/img/logoOsetya.webp" alt="Logotipo de OSETYA"> 
+                <img src="/build/img/logoOsetya.webp" alt="Logotipo de OSETYA"> 
                 </a>
 
                 <div class="mobile-menu">
@@ -20,7 +20,7 @@
                 </div>
 
                 <div class="derecha">
-                    <!-- <img class="dark-mode-boton" src="build/img/dark-mode.svg"> -->
+                   
                     <nav class="navegacion">
                         <a href="login.html">Mi OSETYA</a>
                         <a href="nosotros.html">Nosotros</a>

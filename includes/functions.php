@@ -1,6 +1,6 @@
 <?php 
 
-function obtenerSocios() : array {
+function obtenerSocios() : string {
     try {
         //Importar la conexión
         require "./config/database.php";
