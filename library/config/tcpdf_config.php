@@ -114,7 +114,7 @@ define ('PDF_HEADER_TITLE', 'Orden Medica');
 /**
  * Header description string.
  */
-define ('PDF_HEADER_STRING', "by Nicola Asuni - Tecnick.com\nwww.tcpdf.org");
+define ('PDF_HEADER_STRING', "Creada por Administración S.E.T.I.A. \ntel: +54 9 380 4397644");
 
 /**
  * Document unit of measure [pt=point, mm=millimeter, cm=centimeter, in=inch].

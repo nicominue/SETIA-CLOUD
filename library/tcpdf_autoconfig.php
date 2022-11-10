@@ -149,7 +149,7 @@ if (!defined('PDF_HEADER_TITLE')) {
 }
 
 if (!defined('PDF_HEADER_STRING')) {
-	define ('PDF_HEADER_STRING', "by Nicola Asuni - Tecnick.com\nwww.tcpdf.org");
+	define ('PDF_HEADER_STRING', "hecha por Administración S.E.T.I.A. - tel: +54 9 380 4397644");
 }
 
 if (!defined('PDF_UNIT')) {
