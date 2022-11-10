@@ -56,7 +56,7 @@ input:focus{
 }
 
 label{
-    color: rgb(3, 160, 139);
+    color: rgb(0, 95, 82);
     font-size: 16px;
     position: absolute;
     left: 24px;
@@ -113,4 +113,14 @@ button{
     margin: auto;
     color: rgb(109, 44, 19);
     padding-top: 20px;
+}
+
+.inputless{
+    width: 93%;
+    background: none;
+    color: rgb(24, 10, 10);
+    font-size: 15px;   
+    padding: 8px 8px 8px 8px;
+    border: none;  
+    display: block;
 }
