@@ -20,7 +20,7 @@ body{
 
 .header{
     height: 50vw;
-    background-image: linear-gradient(to right, rgba(255, 236, 210, 0.322) 0%, rgba(252, 182, 159, 0.308) 100%), url(../img/background.jpg);
+    background-image: linear-gradient(to right, rgba(255, 236, 210, 0.322) 0%, rgba(252, 182, 159, 0.308) 100%), url(../build/img/Fondo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -198,7 +198,7 @@ transform: scale(1);
 
 .descripcion{
     
-    width: 15%;
+    width: 18%;
     height: 50px;
     display: flex;
     flex-direction: column;
@@ -215,7 +215,7 @@ transform: scale(1);
     padding-left: 0%;
 }
 .descripcion button{
-    width: 50%;
+    width: 30%;
     border-radius: 10px;
 
 }
